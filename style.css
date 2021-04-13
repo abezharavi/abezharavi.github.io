@@ -434,3 +434,13 @@ h4 {
   text-transform:capitalize;
   font-family: Optima; 
 }
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
