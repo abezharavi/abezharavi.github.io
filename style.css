@@ -19,7 +19,8 @@
     font-size: 25px;
     color: #818181;
     display: block;
-      
+    justify-content:space-around;
+
   }
   
   .sidenav a:hover {
@@ -38,8 +39,8 @@
   }
 
   .navicons { 
-    height:64px;
-    width:64px;
+    height:128px;
+    width:128px;
   }
 
 /* end side nav bar */
@@ -76,9 +77,10 @@ body {
   box-shadow: 10px 10px 50px #a2a2a2;
 }
 .main h2 {
-  font-size: 30px;
+  font-size: 45px;
   line-height: 35px;
   padding-bottom: 10px;
+  text-align:center;
 }
 .main p {
   font-size: 12px;
