@@ -426,7 +426,7 @@ p {
 /* end skills card */
 
 #particles-js {
-  height:1088px;
+  height:100%;
   background-color:#2f0b57;
 }
 
@@ -435,12 +435,8 @@ h4 {
   font-family: Optima; 
 }
 
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #efefef;
-  text-align: center;
+.footer { 
+  text-align:center;
+  background:white;
+
 }
