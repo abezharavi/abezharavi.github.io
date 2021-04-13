@@ -435,6 +435,11 @@ h4 {
   font-family: Optima; 
 }
 
+.projects { 
+height:100%;
+
+}
+
 .footer { 
   text-align:center;
   background:white;
