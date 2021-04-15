@@ -526,6 +526,10 @@ body {
   height: 24px;
 }
 
-h2 {
+h2 {  
+  font-size: 45px;
+  line-height: 35px;
+  padding-bottom: 10px;
+  text-align:center;
   text-transform: capitalize;
 }
