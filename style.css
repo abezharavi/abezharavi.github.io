@@ -533,3 +533,7 @@ h2 {
   text-align:center;
   text-transform: capitalize;
 }
+
+.projects{
+  height:100%;
+}
