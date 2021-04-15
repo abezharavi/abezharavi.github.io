@@ -525,33 +525,3 @@ body {
   width: 24px;
   height: 24px;
 }
-
-/* auto typing effect */
-
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
-
-      .container {
-          box-sizing: border-box;
-          display: flex;
-          align-items: center;
-          height: 100vh;
-          padding: 4rem;
-      }
-
-      .console-container {
-          font-family: 'Open Sans', sans-serif;
-          font-size: 4vw;
-      }
-
-      .console-underscore {
-          display: inline-block;
-          position: relative;
-          color: black;
-      }
-
-      .container {
-          position: relative;
-          text-align: left;
-      }
-
-      /* end autotyping effect */
