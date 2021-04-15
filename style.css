@@ -525,3 +525,7 @@ body {
   width: 24px;
   height: 24px;
 }
+
+h2 {
+  text-transform: capitalize;
+}
